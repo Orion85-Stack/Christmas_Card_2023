@@ -3,19 +3,23 @@ html {
     font-size: 20px;
 }
 
+.headdiv {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    text-align: center;
+}
+
 img {
     border: solid #EA906C;
     border-width: 5px 5px;
-    height: 600px;
-    width: 1100px;
-    margin-left: 110px;
+    width: 100%;
 }
 
 h1 {
     font-size: 2rem;
     font-weight: bold;
     color: #B31312;
-    text-align: center;
     text-transform: uppercase;
 }
 
@@ -23,6 +27,5 @@ p {
     color: #2B2A4C;
     font-size: 1rem;
     font-weight: 500;
-    text-align: center;
     text-transform: capitalize;
 }
